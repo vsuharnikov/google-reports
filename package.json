@@ -1,0 +1,15 @@
+{
+  "name": "google-reports",
+  "version": "0.0.1",
+  "description": "Srcipts for generating reports at Google Spreadsheets",
+  "main": "Gruntfile.js",
+  "keywords": [
+    "google",
+    "reports"
+  ],
+  "author": "Vyatcheslav Suharnikov",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
